@@ -1,0 +1,30 @@
+Base Vendas Produtos
+
+produto, vendedor, fabricante segmentação, loja, cidade, estado,valor.
+
+*FATURAMENTO
+
+- Faturamento total por ano
+- faturamento total por estado
+- faturamento total por cidade
+- Faturamento por produtos
+- faturamento por loja
+- Média do faturamento total
+- Maior Faturamento
+- Menor Faturamento
+
+* Produtos
+ - Produto mais vendido
+ - Produto menos vendido
+ - Categoria mais vendida
+ - Categoria menos vendida
+ - Top 5 produtos mais vendidos
+ - zona de calor dos produtos vendidos
+
+*Vendedor
+- Faturamento do maior  vendedor
+- Faturamento do menor vendedor
+-Top 5 vendedores
+- Maior Vendedor por estado
+- menor Vendedor por estado
+  
